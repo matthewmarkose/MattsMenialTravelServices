@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MattsMenialTravelServices/static/css/main.cf7505c2.css",
+    "main.js": "/MattsMenialTravelServices/static/js/main.1f4337ab.js",
+    "static/js/453.4addafab.chunk.js": "/MattsMenialTravelServices/static/js/453.4addafab.chunk.js",
+    "index.html": "/MattsMenialTravelServices/index.html",
+    "main.cf7505c2.css.map": "/MattsMenialTravelServices/static/css/main.cf7505c2.css.map",
+    "main.1f4337ab.js.map": "/MattsMenialTravelServices/static/js/main.1f4337ab.js.map",
+    "453.4addafab.chunk.js.map": "/MattsMenialTravelServices/static/js/453.4addafab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7505c2.css",
+    "static/js/main.1f4337ab.js"
+  ]
+}
